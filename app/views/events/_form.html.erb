@@ -13,7 +13,7 @@
 
   <div class="field">
     <%= form.label :date %>
-    <%= form.date_select :date %>
+    <%= form.date_select :date, {:start_year => 1789, :end_year => 1791, :default => Date.parse("1789-02-26")}  %>
   </div>
 
   <div class="field">
