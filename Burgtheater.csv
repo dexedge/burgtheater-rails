@@ -1,0 +1,605 @@
+date,dow,month,title,genre,receipts,zinz,double,composer,author
+1789-02-26,Thu,Feb,Grafen Guiscardi,T,14597,FALSE,FALSE,,Ehrenberg
+1789-03-01,Sun,Mar,Der Vizekanzler,S,38216,TRUE,FALSE,,Kratter
+1789-03-02,Mon,Mar,Der Vizekanzler,S,29500,FALSE,FALSE,,Kratter
+1789-03-03,Tue,Mar,Die drey Töchter,L,12065,TRUE,FALSE,,Spieß
+1789-03-05,Thu,Mar,Agnes Bernauerinn,T,30428,FALSE,FALSE,,Törring und Cronsfeld
+1789-03-08,Sun,Mar,Der Vizekanzler,S,36052,TRUE,FALSE,,Kratter
+1789-03-09,Mon,Mar,Das Herz behält seine Rechte,S,10633,TRUE,FALSE,,Beck
+1789-03-10,Tue,Mar,Der Revers,L,7793,TRUE,FALSE,,Jünger
+1789-03-12,Thu,Mar,Der Mönch vom Carmel,T,17021,FALSE,FALSE,,Cumberland
+1789-03-15,Sun,Mar,L'ape musicale,C,19359,TRUE,FALSE,,
+1789-03-16,Mon,Mar,Nina (play),L,9945,FALSE,TRUE,,Marsollier
+1789-03-17,Tue,Mar,Der Vizekanzler,S,25901,FALSE,FALSE,,Kratter
+1789-03-19,Thu,Mar,Der König Lear,T,34342,FALSE,FALSE,,Shakespeare
+1789-03-22,Sun,Mar,Der Vizekanzler,S,32177,FALSE,FALSE,,Kratter
+1789-03-23,Mon,Mar,Der Hausvater,S,10131,TRUE,FALSE,,Diderot
+1789-03-24,Tue,Mar,Romeo und Julie,T,16787,FALSE,FALSE,,Shakespeare
+1789-03-26,Thu,Mar,Fiesco,T,34794,TRUE,FALSE,,Schiller
+1789-03-29,Sun,Mar,Der Advokat zu Cordoua,L,33251,TRUE,FALSE,,Fletcher
+1789-03-30,Mon,Mar,Der Advokat zu Cordoua,L,18961,FALSE,FALSE,,Fletcher
+1789-03-31,Tue,Mar,Der dankbare Sohn,L,7830,FALSE,TRUE,,Engel
+1789-04-02,Thu,Apr,Fiesco,T,27307,FALSE,FALSE,,Schiller
+1789-04-13,Mon,Apr,Koriolan,T,24929,FALSE,FALSE,,Schink
+1789-04-14,Tue,Apr,Fra i due litiganti,O,15454,FALSE,FALSE,Sarti,Goldoni
+1789-04-15,Wed,Apr,Koriolan,T,9002,FALSE,FALSE,,Schink
+1789-04-19,Sun,Apr,Der Sonderling,L,13138,FALSE,FALSE,,Weidmann
+1789-04-20,Mon,Apr,Fra i due litiganti,O,6985,TRUE,FALSE,Sarti,Goldoni
+1789-04-21,Tue,Apr,Der Vizekanzler,S,17987,FALSE,FALSE,,Kratter
+1789-04-22,Wed,Apr,Fra i due litiganti,O,4545,TRUE,FALSE,Sarti,Goldoni
+1789-04-23,Thu,Apr,Viktorine,L,5598,TRUE,FALSE,,Burney
+1789-04-24,Fri,Apr,Fra i due litiganti,O,5342,FALSE,FALSE,Sarti,Goldoni
+1789-04-25,Sat,Apr,Hamlet,T,11592,FALSE,FALSE,,Schröder
+1789-04-26,Sun,Apr,Fra i due litiganti,O,5791,FALSE,FALSE,Sarti,Goldoni
+1789-04-27,Mon,Apr,Minna von Barnhelm,L,7926,FALSE,FALSE,,Lessing
+1789-04-28,Tue,Apr,Il turco in Italia,O,25139,TRUE,FALSE,Seydelmann,Mazzolà
+1789-04-29,Wed,Apr,Erwine von Steinheim,T,9956,FALSE,FALSE,,Blumauer
+1789-04-30,Thu,Apr,Il turco in Italia,O,6897,FALSE,FALSE,Seydelmann,Mazzolà
+1789-05-01,Fri,May,Die Jäger,G,5918,TRUE,FALSE,,Iffland
+1789-05-02,Sat,May,Il turco in Italia,O,4268,TRUE,FALSE,Seydelmann,Mazzolà
+1789-05-03,Sun,May,Die drey Töchter,L,4048,TRUE,FALSE,,Spieß
+1789-05-04,Mon,May,Fra i due litiganti,O,2400,TRUE,FALSE,Sarti,Goldoni
+1789-05-05,Tue,May,Die Glücksritter,L,5135,FALSE,FALSE,,Farquhar
+1789-05-06,Wed,May,Il turco in Italia,O,4515,FALSE,FALSE,Seydelmann,Mazzolà
+1789-05-07,Thu,May,Der Landphilosoph,L,7585,FALSE,FALSE,,Weidmann
+1789-05-08,Fri,May,Fra i due litiganti,O,4609,FALSE,FALSE,Sarti,Goldoni
+1789-05-09,Sat,May,Die unerwartete Wendung,L,17661,TRUE,FALSE,,Jünger
+1789-05-10,Sun,May,Il turco in Italia,O,3130,FALSE,FALSE,Seydelmann,Mazzolà
+1789-05-11,Mon,May,Die unerwartete Wendung,L,5705,FALSE,FALSE,,Jünger
+1789-05-12,Tue,May,I due suppositi conti,O,14905,TRUE,FALSE,Cimarosa,Anelli
+1789-05-13,Wed,May,Agnes Bernauerinn,T,9822,TRUE,FALSE,,Törring und Cronsfeld
+1789-05-14,Thu,May,Fra i due litiganti,O,2551,TRUE,FALSE,Sarti,Goldoni
+1789-05-15,Fri,May,Der Fabrikant,L,4350,FALSE,TRUE,,Weidmann
+1789-05-16,Sat,May,I due suppositi conti,O,15532,FALSE,FALSE,Cimarosa,Anelli
+1789-05-17,Sun,May,Drey Zwillingschwestern,L,14132,TRUE,FALSE,,Weidmann
+1789-05-18,Mon,May,I due suppositi conti,O,10451,TRUE,FALSE,Cimarosa,Anelli
+1789-05-19,Tue,May,Die heimliche Heyrath,L,7390,FALSE,FALSE,,Colman
+1789-05-20,Wed,May,Il turco in Italia,O,2863,FALSE,FALSE,Seydelmann,Mazzolà
+1789-05-21,Thu,May,Emilia Galotti,T,7348,FALSE,FALSE,,Lessing
+1789-05-22,Fri,May,Il turco in Italia,O,2794,FALSE,FALSE,Seydelmann,Mazzolà
+1789-05-23,Sat,May,Die Beschämten,L,16892,FALSE,FALSE,,Cibber
+1789-05-24,Sun,May,Una cosa rara,O,14138,FALSE,FALSE,Martín y Soler,Da Ponte
+1789-05-25,Mon,May,Stille Wasser sind betrüglich,L,3392,FALSE,FALSE,,Beaumont
+1789-05-26,Tue,May,I due suppositi conti,O,6430,TRUE,FALSE,Cimarosa,Anelli
+1789-05-27,Wed,May,Die Beschämten,L,18676,TRUE,FALSE,,Cibber
+1789-05-28,Thu,May,Una cosa rara,O,8937,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-05-29,Fri,May,Fiesco,T,10311,FALSE,FALSE,,Schiller
+1789-05-30,Sat,May,Fra i due litiganti,O,2641,FALSE,FALSE,Sarti,Goldoni
+1789-06-01,Mon,Jun,Die Beschämten,L,13623,FALSE,FALSE,,Cibber
+1789-06-02,Tue,Jun,Una cosa rara,O,11379,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-06-03,Wed,Jun,Die Mündel,S,5153,FALSE,FALSE,,Iffland
+1789-06-04,Thu,Jun,I due suppositi conti,O,4982,FALSE,FALSE,Cimarosa,Anelli
+1789-06-05,Fri,Jun,Nicht mehr als sechs Schüsseln,G,7134,FALSE,FALSE,,Großmann
+1789-06-06,Sat,Jun,Una cosa rara,O,8532,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-06-07,Sun,Jun,Hattyù Ilona,L,16685,FALSE,TRUE,,Brockmann
+1789-06-08,Mon,Jun,Il turco in Italia,O,4362,FALSE,FALSE,Seydelmann,Mazzolà
+1789-06-09,Tue,Jun,Der Adjutant,L,12739,FALSE,TRUE,,Brömel
+1789-06-10,Wed,Jun,I due suppositi conti,O,4778,TRUE,FALSE,Cimarosa,Anelli
+1789-06-12,Fri,Jun,Die Gunst der Fürsten,T,10017,FALSE,FALSE,,Banks
+1789-06-13,Sat,Jun,Le gelosie fortunate,O,8849,FALSE,FALSE,Anfossi,Livigni
+1789-06-14,Sun,Jun,Das Räuschgen,L,12800,FALSE,FALSE,,Bretzner
+1789-06-15,Mon,Jun,Le gelosie fortunate,O,6485,TRUE,FALSE,Anfossi,Livigni
+1789-06-16,Tue,Jun,Das Räuschgen,L,9510,FALSE,FALSE,,Bretzner
+1789-06-17,Wed,Jun,Le gelosie fortunate,O,4757,TRUE,FALSE,Anfossi,Livigni
+1789-06-18,Thu,Jun,Der Vizekanzler,S,8354,FALSE,FALSE,,Kratter
+1789-06-19,Fri,Jun,I due suppositi conti,O,2620,FALSE,FALSE,Cimarosa,Anelli
+1789-06-20,Sat,Jun,Die falschen Vertraulichkeiten,L,3908,FALSE,FALSE,,Gotter
+1789-06-21,Sun,Jun,Le gelosie fortunate,O,3720,FALSE,FALSE,Anfossi,Livigni
+1789-06-22,Mon,Jun,Der Burgermeister,L,5366,FALSE,FALSE,,Brühl
+1789-06-23,Tue,Jun,Una cosa rara,O,9646,FALSE,FALSE,Martín y Soler,Da Ponte
+1789-06-24,Wed,Jun,Der Schreiner,L,4142,FALSE,TRUE,,Weidmann
+1789-06-25,Thu,Jun,Die Lästerschule,L,4990,FALSE,FALSE,,Schröder
+1789-06-26,Fri,Jun,Der Landphilosoph,L,3282,FALSE,FALSE,,Weidmann
+1789-06-27,Sat,Jun,L'arbore di Diana,O,24655,FALSE,FALSE,Martín y Soler,Da Ponte
+1789-06-28,Sun,Jun,Die Redoute,L,16077,FALSE,FALSE,,Richter
+1789-06-29,Mon,Jun,L'arbore di Diana,O,28869,FALSE,FALSE,Martín y Soler,Da Ponte
+1789-06-30,Tue,Jun,Die Redoute,L,12477,FALSE,FALSE,,Richter
+1789-07-01,Wed,Jul,L'arbore di Diana,O,16388,FALSE,FALSE,Martín y Soler,Da Ponte
+1789-07-03,Fri,Jul,Il turco in Italia,O,5232,FALSE,FALSE,Seydelmann,Mazzolà
+1789-07-05,Sun,Jul,L'arbore di Diana,O,9814,FALSE,FALSE,Martín y Soler,Da Ponte
+1789-07-07,Tue,Jul,I due suppositi conti,O,4728,FALSE,FALSE,Cimarosa,Anelli
+1789-07-09,Thu,Jul,Il turco in Italia,O,1986,FALSE,FALSE,Seydelmann,Mazzolà
+1789-07-11,Sat,Jul,L'arbore di Diana,O,10614,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-07-13,Mon,Jul,I due suppositi conti,O,2452,FALSE,FALSE,Cimarosa,Anelli
+1789-07-15,Wed,Jul,Il falegname,O,18073,TRUE,FALSE,Cimarosa,Da Ponte
+1789-07-17,Fri,Jul,Il falegname,O,5898,TRUE,FALSE,Cimarosa,Da Ponte
+1789-07-19,Sun,Jul,Il falegname,O,13417,TRUE,FALSE,Cimarosa,Da Ponte
+1789-07-21,Tue,Jul,L'arbore di Diana,O,13721,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-07-23,Thu,Jul,Il falegname,O,6712,TRUE,FALSE,Cimarosa,Da Ponte
+1789-07-25,Sat,Jul,Il falegname,O,3066,FALSE,FALSE,Cimarosa,Da Ponte
+1789-07-27,Mon,Jul,Una cosa rara,O,16124,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-07-29,Wed,Jul,Una cosa rara,O,9636,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-07-31,Fri,Jul,L'arbore di Diana,O,10678,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-08-02,Sun,Aug,Una cosa rara,O,12897,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-08-04,Tue,Aug,Il falegname,O,4199,TRUE,FALSE,Cimarosa,Da Ponte
+1789-08-06,Thu,Aug,L'arbore di Diana,O,8722,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-08-08,Sat,Aug,Il falegname,O,2926,FALSE,FALSE,Cimarosa,Da Ponte
+1789-08-10,Mon,Aug,Una cosa rara,O,6071,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-08-12,Wed,Aug,L'arbore di Diana,O,8664,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-08-16,Sun,Aug,"Narrheit, Liebe und Edelmut",L,18204,FALSE,FALSE,,Richter
+1789-08-18,Tue,Aug,"Narrheit, Liebe und Edelmut",L,7490,FALSE,FALSE,,Richter
+1789-08-19,Wed,Aug,L'arbore di Diana,O,7513,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-08-20,Thu,Aug,Das Räuschgen,L,5339,TRUE,FALSE,,Bretzner
+1789-08-21,Fri,Aug,I due suppositi conti,O,3134,TRUE,FALSE,Cimarosa,Anelli
+1789-08-22,Sat,Aug,Der Schreiner,L,4711,TRUE,TRUE,,Weidmann
+1789-08-23,Sun,Aug,L'arbore di Diana,O,16054,FALSE,FALSE,Martín y Soler,Da Ponte
+1789-08-24,Mon,Aug,Marie Stuart,T,14980,TRUE,FALSE,,Spieß
+1789-08-25,Tue,Aug,I due suppositi conti,O,5579,TRUE,FALSE,Cimarosa,Anelli
+1789-08-26,Wed,Aug,Die unmögliche Sache,L,10066,TRUE,FALSE,,Crowne
+1789-08-27,Thu,Aug,L'arbore di Diana,O,9325,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-08-28,Fri,Aug,Der Ring,L,11795,TRUE,FALSE,,Farquhar
+1789-08-29,Sat,Aug,Le nozze di Figaro,O,22609,TRUE,FALSE,Mozart,Da Ponte
+1789-08-30,Sun,Aug,Der Ring (Part 2),L,25039,TRUE,FALSE,,Schröder
+1789-08-31,Mon,Aug,Le nozze di Figaro,O,14754,TRUE,FALSE,Mozart,Da Ponte
+1789-09-01,Tue,Sep,Der Ring (Part 2),L,28164,TRUE,FALSE,,Schröder
+1789-09-02,Wed,Sep,Le nozze di Figaro,O,12728,TRUE,FALSE,Mozart,Da Ponte
+1789-09-03,Thu,Sep,Agnes Bernauerinn,T,12718,FALSE,FALSE,,Törring und Cronsfeld
+1789-09-04,Fri,Sep,I due suppositi conti,O,2353,FALSE,FALSE,Cimarosa,Anelli
+1789-09-05,Sat,Sep,Der Ring (Part 2),L,16197,TRUE,FALSE,,Schröder
+1789-09-06,Sun,Sep,I due baroni,O,10177,TRUE,FALSE,Cimarosa,Palomba
+1789-09-07,Mon,Sep,Viktorine,L,9469,FALSE,FALSE,,Burney
+1789-09-09,Wed,Sep,L'arbore di Diana,O,10461,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-09-10,Thu,Sep,Fiesco,T,18309,FALSE,FALSE,,Schiller
+1789-09-11,Fri,Sep,Le nozze di Figaro,O,10589,TRUE,FALSE,Mozart,Da Ponte
+1789-09-12,Sat,Sep,Die Beschämten,L,6114,FALSE,FALSE,,Cibber
+1789-09-13,Sun,Sep,I due baroni,O,5480,FALSE,FALSE,Cimarosa,Palomba
+1789-09-14,Mon,Sep,Die falschen Vertraulichkeiten,L,6641,TRUE,FALSE,,Gotter
+1789-09-15,Tue,Sep,Una cosa rara,O,27630,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-09-16,Wed,Sep,Die Beschämten,L,11583,TRUE,FALSE,,Cibber
+1789-09-17,Thu,Sep,Una cosa rara,O,12115,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-09-18,Fri,Sep,Der Vizekanzler,S,16575,TRUE,FALSE,,Kratter
+1789-09-19,Sat,Sep,Le nozze di Figaro,O,13329,TRUE,FALSE,Mozart,Da Ponte
+1789-09-20,Sun,Sep,Das Liebhaber-Duell,L,27328,FALSE,TRUE,,Garrick
+1789-09-21,Mon,Sep,Il falegname,O,5484,TRUE,FALSE,Cimarosa,Da Ponte
+1789-09-22,Tue,Sep,Das Liebhaber-Duell,L,10326,FALSE,TRUE,,Garrick
+1789-09-23,Wed,Sep,"Axur, re d'Ormus",O,27540,TRUE,FALSE,Salieri,Da Ponte
+1789-09-24,Thu,Sep,Irrthum auf allen Ecken,L,7791,FALSE,FALSE,,Goldsmith
+1789-09-25,Fri,Sep,"Axur, re d'Ormus",O,12964,TRUE,FALSE,Salieri,Da Ponte
+1789-09-26,Sat,Sep,Der Sonderling,L,8188,TRUE,FALSE,,Weidmann
+1789-09-27,Sun,Sep,"Axur, re d'Ormus",O,16587,TRUE,FALSE,Salieri,Da Ponte
+1789-09-28,Mon,Sep,Der Revers,L,6632,TRUE,FALSE,,Jünger
+1789-09-29,Tue,Sep,L'arbore di Diana,O,7197,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-09-30,Wed,Sep,Erwine von Steinheim,T,11630,FALSE,FALSE,,Blumauer
+1789-10-01,Thu,Oct,Il falegname,O,4042,FALSE,FALSE,Cimarosa,Da Ponte
+1789-10-02,Fri,Oct,Der Ring,L,13436,FALSE,FALSE,,Farquhar
+1789-10-03,Sat,Oct,Le nozze di Figaro,O,14116,FALSE,FALSE,Mozart,Da Ponte
+1789-10-04,Sun,Oct,Der Ring (Part 2),L,33541,FALSE,FALSE,,Schröder
+1789-10-05,Mon,Oct,Una cosa rara,O,9436,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-10-06,Tue,Oct,Das Portrait der Mutter,L,27710,TRUE,FALSE,,Schröder
+1789-10-07,Wed,Oct,"Axur, re d'Ormus",O,11621,TRUE,FALSE,Salieri,Da Ponte
+1789-10-08,Thu,Oct,Das Portrait der Mutter,L,17991,FALSE,FALSE,,Schröder
+1789-10-09,Fri,Oct,Le nozze di Figaro,O,10932,TRUE,FALSE,Mozart,Da Ponte
+1789-10-10,Sat,Oct,Hamlet,T,12488,FALSE,FALSE,,Schröder
+1789-10-11,Sun,Oct,I due suppositi conti,O,8192,TRUE,FALSE,Cimarosa,Anelli
+1789-10-12,Mon,Oct,Grafen Guiscardi,T,24544,TRUE,FALSE,,Ehrenberg
+1789-10-13,Tue,Oct,"Axur, re d'Ormus",O,10385,TRUE,FALSE,Salieri,Da Ponte
+1789-10-16,Fri,Oct,I due suppositi conti,O,4817,TRUE,FALSE,Cimarosa,Anelli
+1789-10-17,Sat,Oct,Die Mündel,S,14761,TRUE,FALSE,,Iffland
+1789-10-18,Sun,Oct,Il pastor fido,O,22722,TRUE,FALSE,Salieri,Da Ponte
+1789-10-19,Mon,Oct,Das Testament,L,26458,TRUE,FALSE,,Schröder
+1789-10-20,Tue,Oct,Il falegname,O,5690,TRUE,FALSE,Cimarosa,Da Ponte
+1789-10-21,Wed,Oct,Der Ring (Part 2),L,19613,TRUE,FALSE,,Schröder
+1789-10-22,Thu,Oct,Il falegname,O,4989,TRUE,FALSE,Cimarosa,Da Ponte
+1789-10-23,Fri,Oct,Das Testament,L,10883,TRUE,FALSE,,Schröder
+1789-10-24,Sat,Oct,Le nozze di Figaro,O,12593,FALSE,FALSE,Mozart,Da Ponte
+1789-10-25,Sun,Oct,Irrthum auf allen Ecken,L,18703,TRUE,FALSE,,Goldsmith
+1789-10-26,Mon,Oct,Il pastor fido,O,7528,TRUE,FALSE,Salieri,Da Ponte
+1789-10-27,Tue,Oct,Die heimliche Heyrath,L,9076,TRUE,FALSE,,Colman
+1789-10-28,Wed,Oct,"Axur, re d'Ormus",O,11638,TRUE,FALSE,Salieri,Da Ponte
+1789-10-29,Thu,Oct,Die Holländer,L,11377,TRUE,FALSE,,Bock
+1789-10-30,Fri,Oct,L'arbore di Diana,O,14090,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-10-31,Sat,Oct,Der Jurist und der Bauer,L,13689,TRUE,TRUE,,Rautenstrauch
+1789-11-01,Sun,Nov,Il pastor fido,O,12363,TRUE,FALSE,Salieri,Da Ponte
+1789-11-02,Mon,Nov,Bayard,S,19185,TRUE,FALSE,,Werthes
+1789-11-03,Tue,Nov,Una cosa rara,O,12974,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-11-04,Wed,Nov,Der Ring (Part 2),L,19393,TRUE,FALSE,,Schröder
+1789-11-05,Thu,Nov,Le nozze di Figaro,O,13229,TRUE,FALSE,Mozart,Da Ponte
+1789-11-06,Fri,Nov,Das Räuschgen,L,13392,TRUE,FALSE,,Bretzner
+1789-11-07,Sat,Nov,"Axur, re d'Ormus",O,10410,FALSE,FALSE,Salieri,Da Ponte
+1789-11-08,Sun,Nov,Das Portrait der Mutter,L,28812,TRUE,FALSE,,Schröder
+1789-11-09,Mon,Nov,Il burbero di buon cuore,O,15333,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-11-10,Tue,Nov,Die Beschämten,L,10855,TRUE,FALSE,,Cibber
+1789-11-11,Wed,Nov,Il burbero di buon cuore,O,7781,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-11-12,Thu,Nov,Der Burgermeister,L,11005,FALSE,FALSE,,Brühl
+1789-11-13,Fri,Nov,Le nozze di Figaro,O,13013,FALSE,FALSE,Mozart,Da Ponte
+1789-11-14,Sat,Nov,Menschenhaß und Reue,S,27996,FALSE,FALSE,,Kotzebue
+1789-11-15,Sun,Nov,Il burbero di buon cuore,O,13691,FALSE,FALSE,Martín y Soler,Da Ponte
+1789-11-16,Mon,Nov,Menschenhaß und Reue,S,37378,TRUE,FALSE,,Kotzebue
+1789-11-17,Tue,Nov,"Axur, re d'Ormus",O,11426,TRUE,FALSE,Salieri,Da Ponte
+1789-11-18,Wed,Nov,Agnes Bernauerinn,T,23404,TRUE,FALSE,,Törring und Cronsfeld
+1789-11-19,Thu,Nov,L'arbore di Diana,O,16039,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-11-20,Fri,Nov,Menschenhaß und Reue,S,36682,TRUE,FALSE,,Kotzebue
+1789-11-21,Sat,Nov,Il falegname,O,4764,FALSE,FALSE,Cimarosa,Da Ponte
+1789-11-22,Sun,Nov,Menschenhaß und Reue,S,35065,FALSE,FALSE,,Kotzebue
+1789-11-23,Mon,Nov,Una cosa rara,O,11713,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-11-24,Tue,Nov,Die unmögliche Sache,L,8952,TRUE,FALSE,,Crowne
+1789-11-25,Wed,Nov,"Axur, re d'Ormus",O,8828,TRUE,FALSE,Salieri,Da Ponte
+1789-11-26,Thu,Nov,Imogen,S,12778,TRUE,FALSE,,Meyer
+1789-11-27,Fri,Nov,Le nozze di Figaro,O,9503,TRUE,FALSE,Mozart,Da Ponte
+1789-11-30,Mon,Nov,Menschenhaß und Reue,S,40072,TRUE,FALSE,,Kotzebue
+1789-12-01,Tue,Dec,Il burbero di buon cuore,O,6173,TRUE,FALSE,Martín y Soler,Da Ponte
+1789-12-02,Wed,Dec,Der Vizekanzler,S,14235,TRUE,FALSE,,Kratter
+1789-12-03,Thu,Dec,I due suppositi conti,O,4053,FALSE,FALSE,Cimarosa,Anelli
+1789-12-04,Fri,Dec,Der Wittwer,L,14377,TRUE,TRUE,,Carmontelle
+1789-12-05,Sat,Dec,Die Lästerschule,L,6771,TRUE,FALSE,,Schröder
+1789-12-06,Sun,Dec,Das Portrait der Mutter,L,21758,TRUE,FALSE,,Schröder
+1789-12-07,Mon,Dec,"Axur, re d'Ormus",O,8570,TRUE,FALSE,Salieri,Da Ponte
+1789-12-08,Tue,Dec,Menschenhaß und Reue,S,34938,TRUE,FALSE,,Kotzebue
+1789-12-09,Wed,Dec,Il falegname,O,2768,FALSE,FALSE,Cimarosa,Da Ponte
+1789-12-10,Thu,Dec,Die Jäger,G,12558,TRUE,FALSE,,Iffland
+1789-12-11,Fri,Dec,La cifra,O,29121,TRUE,FALSE,Salieri,Da Ponte
+1789-12-12,Sat,Dec,Das öffentliche Geheimniß,L,10721,TRUE,FALSE,,Gotter
+1789-12-13,Sun,Dec,La cifra,O,27818,TRUE,FALSE,Salieri,Da Ponte
+1789-12-14,Mon,Dec,Menschenhaß und Reue,S,31281,TRUE,FALSE,,Kotzebue
+1789-12-15,Tue,Dec,La cifra,O,16695,TRUE,FALSE,Salieri,Da Ponte
+1789-12-16,Wed,Dec,Das Kleid aus Lyon,L,8889,FALSE,FALSE,,Jünger
+1789-12-17,Thu,Dec,I due suppositi conti,O,7397,TRUE,FALSE,Cimarosa,Anelli
+1789-12-18,Fri,Dec,Menschenhaß und Reue,S,24996,FALSE,FALSE,,Kotzebue
+1789-12-19,Sat,Dec,Il falegname,O,3188,FALSE,FALSE,Cimarosa,Da Ponte
+1789-12-20,Sun,Dec,Der Kobold,L,22286,TRUE,FALSE,,Collé
+1789-12-21,Mon,Dec,La cifra,O,16943,TRUE,FALSE,Salieri,Da Ponte
+1789-12-26,Sat,Dec,Drey Zwillingschwestern,L,31953,TRUE,FALSE,,Weidmann
+1789-12-27,Sun,Dec,La cifra,O,21934,TRUE,FALSE,Salieri,Da Ponte
+1789-12-28,Mon,Dec,Alles aus Eigennutz,S,25979,TRUE,FALSE,,Burgoyne
+1789-12-29,Tue,Dec,"Axur, re d'Ormus",O,10205,TRUE,FALSE,Salieri,Da Ponte
+1789-12-30,Wed,Dec,Alles aus Eigennutz,S,10421,FALSE,FALSE,,Burgoyne
+1789-12-31,Thu,Dec,La cifra,O,9914,FALSE,FALSE,Salieri,Da Ponte
+1790-01-01,Fri,Jan,Der Sonderling,L,25930,FALSE,FALSE,,Weidmann
+1790-01-02,Sat,Jan,Una cosa rara,O,13690,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-01-03,Sun,Jan,Menschenhaß und Reue,S,34322,FALSE,FALSE,,Kotzebue
+1790-01-04,Mon,Jan,Alles aus Eigennutz,S,7021,FALSE,FALSE,,Burgoyne
+1790-01-05,Tue,Jan,Der Wechsel,L,16885,TRUE,FALSE,,Jünger
+1790-01-06,Wed,Jan,Il falegname,O,6624,FALSE,FALSE,Cimarosa,Da Ponte
+1790-01-07,Thu,Jan,Agnes Bernauerinn,T,35181,TRUE,FALSE,,Törring und Cronsfeld
+1790-01-08,Fri,Jan,Le nozze di Figaro,O,12281,FALSE,FALSE,Mozart,Da Ponte
+1790-01-09,Sat,Jan,Menschenhaß und Reue,S,22681,TRUE,FALSE,,Kotzebue
+1790-01-10,Sun,Jan,L'arbore di Diana,O,18537,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-01-11,Mon,Jan,Das Portrait der Mutter,L,11762,FALSE,FALSE,,Schröder
+1790-01-12,Tue,Jan,Il burbero di buon cuore,O,8534,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-01-13,Wed,Jan,Othello,T,20210,FALSE,FALSE,,Brockmann
+1790-01-14,Thu,Jan,Il falegname,O,2872,FALSE,FALSE,Cimarosa,Da Ponte
+1790-01-15,Fri,Jan,Der Burgermeister,L,9771,FALSE,FALSE,,Brühl
+1790-01-16,Sat,Jan,Una cosa rara,O,12100,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-01-17,Sun,Jan,Irrthum auf allen Ecken,L,11716,FALSE,FALSE,,Goldsmith
+1790-01-18,Mon,Jan,Menschenhaß und Reue,S,18141,FALSE,FALSE,,Kotzebue
+1790-01-19,Tue,Jan,Der Eilfertige,L,10632,TRUE,TRUE,,Schletter
+1790-01-20,Wed,Jan,Il burbero di buon cuore,O,5931,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-01-21,Thu,Jan,Der Schreiner,L,13848,TRUE,TRUE,,Weidmann
+1790-01-22,Fri,Jan,La cifra,O,12665,TRUE,FALSE,Salieri,Da Ponte
+1790-01-23,Sat,Jan,Der Sohn aus Indien,L,21679,TRUE,FALSE,,Sannens
+1790-01-24,Sun,Jan,Una cosa rara,O,11566,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-01-25,Mon,Jan,Der Sohn aus Indien,L,5422,FALSE,FALSE,,Sannens
+1790-01-26,Tue,Jan,Così fan tutte,O,33199,TRUE,FALSE,Mozart,Da Ponte
+1790-01-27,Wed,Jan,Hamlet,T,16166,TRUE,FALSE,,Schröder
+1790-01-28,Thu,Jan,Così fan tutte,O,18311,TRUE,FALSE,Mozart,Da Ponte
+1790-01-29,Fri,Jan,Menschenhaß und Reue,S,26790,TRUE,FALSE,,Kotzebue
+1790-01-30,Sat,Jan,Così fan tutte,O,13425,TRUE,FALSE,Mozart,Da Ponte
+1790-01-31,Sun,Jan,Der Landphilosoph,L,15136,FALSE,TRUE,,Weidmann
+1790-02-01,Mon,Feb,Le nozze di Figaro,O,10881,TRUE,FALSE,Mozart,Da Ponte
+1790-02-02,Tue,Feb,Der Vizekanzler,S,21784,FALSE,FALSE,,Kratter
+1790-02-03,Wed,Feb,Una cosa rara,O,7350,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-02-04,Thu,Feb,Das Testament,L,9408,TRUE,FALSE,,Schröder
+1790-02-05,Fri,Feb,La cifra,O,15219,FALSE,FALSE,Salieri,Da Ponte
+1790-02-06,Sat,Feb,Der Hausvater,S,14990,TRUE,FALSE,,Diderot
+1790-02-07,Sun,Feb,Così fan tutte,O,20586,TRUE,FALSE,Mozart,Da Ponte
+1790-02-08,Mon,Feb,Emilia Galotti,T,20831,FALSE,FALSE,,Lessing
+1790-02-09,Tue,Feb,Una cosa rara,O,11543,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-02-10,Wed,Feb,Olivie,T,11352,FALSE,FALSE,,Brandes
+1790-02-11,Thu,Feb,Così fan tutte,O,14043,TRUE,FALSE,Mozart,Da Ponte
+1790-04-12,Mon,Apr,Die Indianer in England,L,31858,FALSE,FALSE,,Kotzebue
+1790-04-13,Tue,Apr,Nina,O,32162,TRUE,FALSE,Paisiello,Da Ponte
+1790-04-14,Wed,Apr,Die Indianer in England,L,16470,TRUE,FALSE,,Kotzebue
+1790-04-15,Thu,Apr,Nina,O,10244,TRUE,FALSE,Paisiello,Da Ponte
+1790-04-16,Fri,Apr,Der Ring (Part 2),L,13710,TRUE,FALSE,,Schröder
+1790-04-17,Sat,Apr,L'arbore di Diana,O,18701,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-04-18,Sun,Apr,Die Indianer in England,L,26038,TRUE,FALSE,,Kotzebue
+1790-04-19,Mon,Apr,Il re Teodoro in Venezia,O,36191,TRUE,FALSE,Paisiello,Casti
+1790-04-20,Tue,Apr,Der Dorfbarbier,L,12411,FALSE,TRUE,,Weidmann
+1790-04-21,Wed,Apr,Il re Teodoro in Venezia,O,18716,TRUE,FALSE,Paisiello,Casti
+1790-04-22,Thu,Apr,Menschenhaß und Reue,S,19815,TRUE,FALSE,,Kotzebue
+1790-04-23,Fri,Apr,Nina,O,4531,FALSE,FALSE,Paisiello,Da Ponte
+1790-04-24,Sat,Apr,Die Strelitzen,S,20009,TRUE,FALSE,,Babo
+1790-04-25,Sun,Apr,L'arbore di Diana,O,17040,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-04-26,Mon,Apr,Die Strelitzen,S,27145,TRUE,FALSE,,Babo
+1790-04-27,Tue,Apr,La cifra,O,8445,TRUE,FALSE,Salieri,Da Ponte
+1790-04-28,Wed,Apr,Geschwind eh es jemand erfährt,L,6362,FALSE,FALSE,,Bock
+1790-04-29,Thu,Apr,Il re Teodoro in Venezia,O,14601,TRUE,FALSE,Paisiello,Casti
+1790-04-30,Fri,Apr,Die Strelitzen,S,23554,TRUE,FALSE,,Babo
+1790-05-01,Sat,May,Le nozze di Figaro,O,9443,TRUE,FALSE,Mozart,Da Ponte
+1790-05-02,Sun,May,Die Indianer in England,L,16360,TRUE,FALSE,,Kotzebue
+1790-05-03,Mon,May,L'arbore di Diana,O,8151,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-05-04,Tue,May,Der Vizekanzler,S,10043,FALSE,FALSE,,Kratter
+1790-05-05,Wed,May,Il re Teodoro in Venezia,O,12173,TRUE,FALSE,Paisiello,Casti
+1790-05-06,Thu,May,Agnes Bernauerinn,T,16470,FALSE,FALSE,,Törring und Cronsfeld
+1790-05-07,Fri,May,Le nozze di Figaro,O,8521,TRUE,FALSE,Mozart,Da Ponte
+1790-05-08,Sat,May,Der Hausvater,S,8289,FALSE,FALSE,,Diderot
+1790-05-09,Sun,May,Le nozze di Figaro,O,12691,FALSE,FALSE,Mozart,Da Ponte
+1790-05-10,Mon,May,Die Entführung,L,18247,TRUE,FALSE,,Jünger
+1790-05-11,Tue,May,La cifra,O,7335,TRUE,FALSE,Salieri,Da Ponte
+1790-05-12,Wed,May,Die Entführung,L,14918,TRUE,FALSE,,Jünger
+1790-05-13,Thu,May,Il re Teodoro in Venezia,O,13289,FALSE,FALSE,Paisiello,Casti
+1790-05-14,Fri,May,Die Strelitzen,S,25664,TRUE,FALSE,,Babo
+1790-05-15,Sat,May,L'arbore di Diana,O,7481,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-05-16,Sun,May,Die Entführung,L,11878,FALSE,FALSE,,Jünger
+1790-05-17,Mon,May,La cifra,O,6662,FALSE,FALSE,Salieri,Da Ponte
+1790-05-18,Tue,May,Marie Stuart,T,3643,FALSE,FALSE,,Spieß
+1790-05-19,Wed,May,Le nozze di Figaro,O,4129,FALSE,FALSE,Mozart,Da Ponte
+1790-05-20,Thu,May,Menschenhaß und Reue,S,12364,FALSE,FALSE,,Kotzebue
+1790-05-21,Fri,May,Il re Teodoro in Venezia,O,9026,FALSE,FALSE,Paisiello,Casti
+1790-05-22,Sat,May,Die Entführung,L,7623,FALSE,FALSE,,Jünger
+1790-05-24,Mon,May,La pastorella nobile,O,21373,TRUE,FALSE,Guglielmi,Zini
+1790-05-25,Tue,May,Die Jäger,G,6949,FALSE,FALSE,,Iffland
+1790-05-26,Wed,May,La pastorella nobile,O,21941,TRUE,FALSE,Guglielmi,Zini
+1790-05-27,Thu,May,Die Strelitzen,S,14422,FALSE,FALSE,,Babo
+1790-05-28,Fri,May,La pastorella nobile,O,18945,FALSE,FALSE,Guglielmi,Zini
+1790-05-29,Sat,May,Die Holländer,L,5681,FALSE,FALSE,,Bock
+1790-05-30,Sun,May,Le nozze di Figaro,O,4236,FALSE,FALSE,Mozart,Da Ponte
+1790-05-31,Mon,May,Die Indianer in England,L,8291,FALSE,FALSE,,Kotzebue
+1790-06-01,Tue,Jun,Il re Teodoro in Venezia,O,7597,TRUE,FALSE,Paisiello,Casti
+1790-06-02,Wed,Jun,Viktorine,L,4316,TRUE,FALSE,,Burney
+1790-06-04,Fri,Jun,L'arbore di Diana,O,10934,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-06-05,Sat,Jun,Menschenhaß und Reue,S,11075,FALSE,FALSE,,Kotzebue
+1790-06-06,Sun,Jun,Così fan tutte,O,7989,TRUE,FALSE,Mozart,Da Ponte
+1790-06-07,Mon,Jun,Die Strelitzen,S,15165,TRUE,FALSE,,Babo
+1790-06-08,Tue,Jun,La cifra,O,5569,TRUE,FALSE,Salieri,Da Ponte
+1790-06-09,Wed,Jun,Virginia,T,17630,TRUE,FALSE,,Ayrenhoff
+1790-06-10,Thu,Jun,La pastorella nobile,O,18410,TRUE,FALSE,Guglielmi,Zini
+1790-06-11,Fri,Jun,Der Burgermeister,L,5704,FALSE,FALSE,,Brühl
+1790-06-12,Sat,Jun,Così fan tutte,O,4560,FALSE,FALSE,Mozart,Da Ponte
+1790-06-13,Sun,Jun,Virginia,T,10300,FALSE,FALSE,,Ayrenhoff
+1790-06-14,Mon,Jun,Il re Teodoro in Venezia,O,6728,TRUE,FALSE,Paisiello,Casti
+1790-06-15,Tue,Jun,Der Kobold,L,4657,TRUE,FALSE,,Collé
+1790-06-16,Wed,Jun,Una cosa rara,O,14247,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-06-17,Thu,Jun,Die Glücksritter,L,5765,FALSE,FALSE,,Farquhar
+1790-06-18,Fri,Jun,L'arbore di Diana,O,8164,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-06-19,Sat,Jun,Imogen,S,7241,TRUE,FALSE,,Meyer
+1790-06-20,Sun,Jun,La pastorella nobile,O,11030,TRUE,FALSE,Guglielmi,Zini
+1790-06-21,Mon,Jun,Die drey Töchter,L,3788,FALSE,FALSE,,Spieß
+1790-06-22,Tue,Jun,Le nozze di Figaro,O,5648,FALSE,FALSE,Mozart,Da Ponte
+1790-06-23,Wed,Jun,Die Strelitzen,S,8218,TRUE,FALSE,,Babo
+1790-06-24,Thu,Jun,La cifra,O,4657,FALSE,FALSE,Salieri,Da Ponte
+1790-06-25,Fri,Jun,Das Findelkind,L,4922,FALSE,FALSE,,Brühl
+1790-06-26,Sat,Jun,Le nozze di Figaro,O,8644,FALSE,FALSE,Mozart,Da Ponte
+1790-06-27,Sun,Jun,Der Landphilosoph,L,14257,TRUE,FALSE,,Weidmann
+1790-06-28,Mon,Jun,Una cosa rara,O,9159,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-06-29,Tue,Jun,Frauenstand,S,22605,TRUE,FALSE,,Iffland
+1790-06-30,Wed,Jun,Il re Teodoro in Venezia,O,6639,TRUE,FALSE,Paisiello,Casti
+1790-07-01,Thu,Jul,Frauenstand,S,10151,FALSE,FALSE,,Iffland
+1790-07-02,Fri,Jul,L'arbore di Diana,O,9244,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-07-03,Sat,Jul,Die Widersprecherin,L,8373,TRUE,TRUE,,Dufresny
+1790-07-04,Sun,Jul,La pastorella nobile,O,27794,TRUE,FALSE,Guglielmi,Zini
+1790-07-05,Mon,Jul,Die Holländer,L,4710,FALSE,FALSE,,Bock
+1790-07-06,Tue,Jul,Così fan tutte,O,8489,TRUE,FALSE,Mozart,Da Ponte
+1790-07-07,Wed,Jul,Viktorine,L,5269,TRUE,FALSE,,Burney
+1790-07-08,Thu,Jul,La pastorella nobile,O,14734,FALSE,FALSE,Guglielmi,Zini
+1790-07-09,Fri,Jul,Irrthum auf allen Ecken,L,6138,FALSE,FALSE,,Goldsmith
+1790-07-10,Sat,Jul,Una cosa rara,O,8095,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-07-11,Sun,Jul,Frauenstand,S,13910,TRUE,FALSE,,Iffland
+1790-07-12,Mon,Jul,L'arbore di Diana,O,11802,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-07-13,Tue,Jul,Das Testament,L,5736,TRUE,FALSE,,Schröder
+1790-07-14,Wed,Jul,La cifra,O,7137,FALSE,FALSE,Salieri,Da Ponte
+1790-07-15,Thu,Jul,Hamlet,T,17303,FALSE,FALSE,,Schröder
+1790-07-16,Fri,Jul,Così fan tutte,O,7977,FALSE,FALSE,Mozart,Da Ponte
+1790-07-17,Sat,Jul,Die heimliche Heyrath,L,8618,TRUE,FALSE,,Colman
+1790-07-18,Sun,Jul,La pastorella nobile,O,17458,TRUE,FALSE,Guglielmi,Zini
+1790-07-19,Mon,Jul,Der poetische Dorfjunker,L,8258,FALSE,FALSE,,Destouches
+1790-07-20,Tue,Jul,Il re Teodoro in Venezia,O,9953,TRUE,FALSE,Paisiello,Casti
+1790-07-21,Wed,Jul,Othello,T,10200,FALSE,FALSE,,Brockmann
+1790-07-22,Thu,Jul,L'arbore di Diana,O,7512,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-07-23,Fri,Jul,Die Entführung,L,6046,TRUE,FALSE,,Jünger
+1790-07-24,Sat,Jul,Le nozze di Figaro,O,10844,TRUE,FALSE,Mozart,Da Ponte
+1790-07-25,Sun,Jul,Geschwind eh es jemand erfährt,L,9556,TRUE,FALSE,,Bock
+1790-07-26,Mon,Jul,Le nozze di Figaro,O,3821,TRUE,FALSE,Mozart,Da Ponte
+1790-07-27,Tue,Jul,Die Gunst der Fürsten,T,9516,FALSE,FALSE,,Banks
+1790-07-28,Wed,Jul,Verirrung ohne Laster,S,7813,TRUE,FALSE,,Beck
+1790-07-29,Thu,Jul,Verirrung ohne Laster,S,6634,TRUE,FALSE,,Beck
+1790-07-30,Fri,Jul,L'arbore di Diana,O,8560,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-07-31,Sat,Jul,Frauenstand,S,8562,TRUE,FALSE,,Iffland
+1790-08-01,Sun,Aug,Una cosa rara,O,6676,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-08-02,Mon,Aug,Der König Lear,T,22189,TRUE,FALSE,,Shakespeare
+1790-08-03,Tue,Aug,L'arbore di Diana,O,5373,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-08-04,Wed,Aug,Die Indianer in England,L,16914,TRUE,FALSE,,Kotzebue
+1790-08-05,Thu,Aug,La pastorella nobile,O,10536,TRUE,FALSE,Guglielmi,Zini
+1790-08-06,Fri,Aug,Der Wittwer,L,8468,FALSE,TRUE,,Carmontelle
+1790-08-07,Sat,Aug,Così fan tutte,O,7302,TRUE,FALSE,Mozart,Da Ponte
+1790-08-08,Sun,Aug,Der Revers,L,9287,FALSE,FALSE,,Jünger
+1790-08-09,Mon,Aug,La pastorella nobile,O,9733,TRUE,FALSE,Guglielmi,Zini
+1790-08-10,Tue,Aug,Der Fahndrich,L,9886,TRUE,TRUE,,Schröder
+1790-08-11,Wed,Aug,Il re Teodoro in Venezia,O,7689,FALSE,FALSE,Paisiello,Casti
+1790-08-12,Thu,Aug,Der Jurist und der Bauer,L,8758,FALSE,TRUE,,Rautenstrauch
+1790-08-13,Fri,Aug,La quacquera spirituosa,O,25058,TRUE,FALSE,Guglielmi,Da Ponte
+1790-08-14,Sat,Aug,Die Adelsucht,L,12177,TRUE,TRUE,,La Chaussée
+1790-08-15,Sun,Aug,La quacquera spirituosa,O,5887,FALSE,FALSE,Guglielmi,Da Ponte
+1790-08-16,Mon,Aug,Der Bettelstudent,L,26994,FALSE,TRUE,Winter,Weidmann
+1790-08-18,Wed,Aug,La pastorella nobile,O,15373,TRUE,FALSE,Guglielmi,Zini
+1790-08-19,Thu,Aug,Das Blatt hat sich gewendet,L,13685,TRUE,FALSE,,Cumberland
+1790-08-20,Fri,Aug,L'arbore di Diana,O,14696,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-08-21,Sat,Aug,Der Bettelstudent,L,31466,FALSE,TRUE,Winter,Weidmann
+1790-08-22,Sun,Aug,Le nozze di Figaro,O,16605,FALSE,FALSE,Mozart,Da Ponte
+1790-08-23,Mon,Aug,Der Strich durch die Rechnung,L,12548,FALSE,TRUE,,Jünger
+1790-08-24,Tue,Aug,Il re Teodoro in Venezia,O,7110,TRUE,FALSE,Paisiello,Casti
+1790-08-25,Wed,Aug,Emilia Galotti,T,12570,TRUE,FALSE,,Lessing
+1790-08-26,Thu,Aug,"Axur, re d'Ormus",O,14527,FALSE,FALSE,Salieri,Da Ponte
+1790-08-27,Fri,Aug,Das Loch in der Thure,L,7567,TRUE,FALSE,,Stephanie d.J.
+1790-08-28,Sat,Aug,La pastorella nobile,O,13232,FALSE,FALSE,Guglielmi,Zini
+1790-08-29,Sun,Aug,Ariadne auf Naxos,M,25552,FALSE,TRUE,Benda,Brandes
+1790-08-30,Mon,Aug,Il re Teodoro in Venezia,O,8563,FALSE,FALSE,Paisiello,Casti
+1790-08-31,Tue,Aug,Der Ring (Part 2),L,15746,TRUE,FALSE,,Schröder
+1790-09-01,Wed,Sep,"Axur, re d'Ormus",O,15422,TRUE,FALSE,Salieri,Da Ponte
+1790-09-02,Thu,Sep,Nicht mehr als sechs Schüsseln,G,12769,TRUE,FALSE,,Großmann
+1790-09-03,Fri,Sep,Le nozze di Figaro,O,10701,TRUE,FALSE,Mozart,Da Ponte
+1790-09-04,Sat,Sep,Agnes Bernauerinn,T,24203,FALSE,FALSE,,Törring und Cronsfeld
+1790-09-05,Sun,Sep,La pastorella nobile,O,15745,FALSE,FALSE,Guglielmi,Zini
+1790-09-06,Mon,Sep,Der Adjutant,L,15256,TRUE,TRUE,,Brömel
+1790-09-07,Tue,Sep,Il re Teodoro in Venezia,O,10422,FALSE,FALSE,Paisiello,Casti
+1790-09-09,Thu,Sep,Il re Teodoro in Venezia,O,12963,TRUE,FALSE,Paisiello,Casti
+1790-09-10,Fri,Sep,Menschenhaß und Reue,S,23296,TRUE,FALSE,,Kotzebue
+1790-09-11,Sat,Sep,Die Adelsucht,L,8401,FALSE,TRUE,,La Chaussée
+1790-09-12,Sun,Sep,Das Landmädchen,L,21880,FALSE,FALSE,,Schmid
+1790-09-13,Mon,Sep,La pastorella nobile,O,15356,TRUE,FALSE,Guglielmi,Zini
+1790-09-14,Tue,Sep,Die Strelitzen,S,24824,TRUE,FALSE,,Babo
+1790-09-15,Wed,Sep,Die falschen Vertraulichkeiten,L,36989,TRUE,TRUE,,Gotter
+1790-09-16,Thu,Sep,La pastorella nobile,O,18641,TRUE,FALSE,Guglielmi,Zini
+1790-09-17,Fri,Sep,Die falschen Vertraulichkeiten,L,3680,TRUE,FALSE,,Gotter
+1790-09-18,Sat,Sep,Il re Teodoro in Venezia,O,13244,TRUE,FALSE,Paisiello,Casti
+1790-09-20,Mon,Sep,"Axur, re d'Ormus",O,20903,TRUE,FALSE,Salieri,Da Ponte
+1790-09-21,Tue,Sep,Stille Wasser sind betrüglich,L,11504,FALSE,FALSE,,Beaumont
+1790-09-22,Wed,Sep,Der Bettler,L,17515,TRUE,TRUE,,Bock
+1790-09-23,Thu,Sep,L'arbore di Diana,O,12365,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-09-24,Fri,Sep,Bayard,S,15875,FALSE,FALSE,,Werthes
+1790-09-25,Sat,Sep,Le nozze di Figaro,O,9366,TRUE,FALSE,Mozart,Da Ponte
+1790-09-26,Sun,Sep,Das öffentliche Geheimniß,L,22164,FALSE,FALSE,,Gotter
+1790-09-27,Mon,Sep,La pastorella nobile,O,10933,TRUE,FALSE,Guglielmi,Zini
+1790-09-28,Tue,Sep,Liebhaber und Nebenbuhler,L,26686,TRUE,FALSE,,Ziegler
+1790-09-29,Wed,Sep,"Axur, re d'Ormus",O,9260,FALSE,FALSE,Salieri,Da Ponte
+1790-09-30,Thu,Sep,Liebhaber und Nebenbuhler,L,26854,FALSE,FALSE,,Ziegler
+1790-10-01,Fri,Oct,L'arbore di Diana,O,6566,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-10-02,Sat,Oct,Der Ring (Part 2),L,10199,FALSE,FALSE,,Schröder
+1790-10-03,Sun,Oct,Gli equivoci,O,19156,FALSE,FALSE,Storace,Da Ponte
+1790-10-04,Mon,Oct,Liebhaber und Nebenbuhler,L,24912,FALSE,FALSE,,Ziegler
+1790-10-05,Tue,Oct,Gli equivoci,O,10682,FALSE,FALSE,Storace,Da Ponte
+1790-10-06,Wed,Oct,Irrthum auf allen Ecken,L,7217,TRUE,FALSE,,Goldsmith
+1790-10-07,Thu,Oct,Gli equivoci,O,7635,FALSE,FALSE,Storace,Da Ponte
+1790-10-08,Fri,Oct,Agnes Bernauerinn,T,19330,FALSE,FALSE,,Törring und Cronsfeld
+1790-10-09,Sat,Oct,La pastorella nobile,O,10925,TRUE,FALSE,Guglielmi,Zini
+1790-10-10,Sun,Oct,Liebhaber und Nebenbuhler,L,31846,TRUE,FALSE,,Ziegler
+1790-10-11,Mon,Oct,Le nozze di Figaro,O,7888,TRUE,FALSE,Mozart,Da Ponte
+1790-10-12,Tue,Oct,Der Vizekanzler,S,14798,FALSE,FALSE,,Kratter
+1790-10-13,Wed,Oct,"Axur, re d'Ormus",O,10797,FALSE,FALSE,Salieri,Da Ponte
+1790-10-14,Thu,Oct,Der Sonderling,L,12834,TRUE,FALSE,,Weidmann
+1790-10-16,Sat,Oct,"Axur, re d'Ormus",O,7123,FALSE,FALSE,Salieri,Da Ponte
+1790-10-17,Sun,Oct,Liebhaber und Nebenbuhler,L,25459,FALSE,FALSE,,Ziegler
+1790-10-18,Mon,Oct,Il re Teodoro in Venezia,O,9561,TRUE,FALSE,Paisiello,Casti
+1790-10-19,Tue,Oct,Die Adelsucht,L,9474,TRUE,TRUE,,La Chaussée
+1790-10-20,Wed,Oct,Liebhaber und Nebenbuhler,L,14942,FALSE,FALSE,,Ziegler
+1790-10-21,Thu,Oct,Othello,T,15656,FALSE,FALSE,,Brockmann
+1790-10-22,Fri,Oct,"Axur, re d'Ormus",O,9149,FALSE,FALSE,Salieri,Da Ponte
+1790-10-23,Sat,Oct,Die heimliche Heyrath,L,7937,TRUE,FALSE,,Colman
+1790-10-24,Sun,Oct,La caffettiera bizzarra,O,18871,FALSE,FALSE,Weigl,Da Ponte
+1790-10-25,Mon,Oct,Das Souvenir,G,24237,TRUE,FALSE,,Brunner
+1790-10-26,Tue,Oct,La pastorella nobile,O,12307,FALSE,FALSE,Guglielmi,Zini
+1790-10-27,Wed,Oct,Das Souvenir,G,13944,FALSE,FALSE,,Brunner
+1790-10-28,Thu,Oct,Il re Teodoro in Venezia,O,8933,TRUE,FALSE,Paisiello,Casti
+1790-10-29,Fri,Oct,Liebhaber und Nebenbuhler,L,14093,FALSE,FALSE,,Ziegler
+1790-10-30,Sat,Oct,L'arbore di Diana,O,14193,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-10-31,Sun,Oct,Die Strelitzen,S,34807,FALSE,FALSE,,Babo
+1790-11-01,Mon,Nov,La caffettiera bizzarra,O,12687,TRUE,FALSE,Weigl,Da Ponte
+1790-11-02,Tue,Nov,Die unmögliche Sache,L,11798,TRUE,FALSE,,Crowne
+1790-11-03,Wed,Nov,Gli equivoci,O,12060,TRUE,FALSE,Storace,Da Ponte
+1790-11-04,Thu,Nov,Menschenhaß und Reue,S,22339,FALSE,FALSE,,Kotzebue
+1790-11-05,Fri,Nov,La pastorella nobile,O,13990,TRUE,FALSE,Guglielmi,Zini
+1790-11-06,Sat,Nov,Die Jäger,G,15683,FALSE,FALSE,,Iffland
+1790-11-07,Sun,Nov,Una cosa rara,O,26220,TRUE,FALSE,Martín y Soler,Da Ponte
+1790-11-08,Mon,Nov,Die Lästerschule,L,13156,FALSE,FALSE,,Schröder
+1790-11-09,Tue,Nov,L'arbore di Diana,O,11381,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-11-10,Wed,Nov,Das Portrait der Mutter,L,12879,FALSE,FALSE,,Schröder
+1790-11-11,Thu,Nov,Il re Teodoro in Venezia,O,8181,FALSE,FALSE,Paisiello,Casti
+1790-11-12,Fri,Nov,Die Familie,S,15542,FALSE,FALSE,,Gemmingen
+1790-11-13,Sat,Nov,La molinara,O,22433,TRUE,FALSE,Paisiello,Palomba
+1790-11-14,Sun,Nov,Das Souvenir,G,22297,FALSE,FALSE,,Brunner
+1790-11-15,Mon,Nov,La molinara,O,28728,TRUE,FALSE,Paisiello,Palomba
+1790-11-16,Tue,Nov,Bayard,S,13353,FALSE,FALSE,,Werthes
+1790-11-17,Wed,Nov,La molinara,O,19401,TRUE,FALSE,Paisiello,Palomba
+1790-11-18,Thu,Nov,Juliane von Lindorak,S,11899,FALSE,FALSE,,Gozzi
+1790-11-19,Fri,Nov,Il re Teodoro in Venezia,O,8504,FALSE,FALSE,Paisiello,Casti
+1790-11-20,Sat,Nov,Matilde,T,35842,FALSE,FALSE,,Ziegler
+1790-11-21,Sun,Nov,La molinara,O,26488,FALSE,FALSE,Paisiello,Palomba
+1790-11-22,Mon,Nov,Der Landphilosoph,L,13439,FALSE,FALSE,,Weidmann
+1790-11-23,Tue,Nov,La molinara,O,22990,FALSE,FALSE,Paisiello,Palomba
+1790-11-24,Wed,Nov,Verirrung ohne Laster,S,11482,FALSE,FALSE,,Beck
+1790-11-25,Thu,Nov,L'arbore di Diana,O,12913,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-11-26,Fri,Nov,Matilde,T,33628,TRUE,FALSE,,Ziegler
+1790-11-27,Sat,Nov,La pastorella nobile,O,15582,FALSE,FALSE,Guglielmi,Zini
+1790-11-30,Tue,Nov,Matilde,T,34841,TRUE,FALSE,,Ziegler
+1790-12-01,Wed,Dec,La molinara,O,24078,FALSE,FALSE,Paisiello,Palomba
+1790-12-02,Thu,Dec,Wahrheit ist gut Ding,L,11779,FALSE,FALSE,,Goldoni
+1790-12-03,Fri,Dec,"Axur, re d'Ormus",O,17203,FALSE,FALSE,Salieri,Da Ponte
+1790-12-04,Sat,Dec,Die Strelitzen,S,24807,FALSE,FALSE,,Babo
+1790-12-05,Sun,Dec,Gli equivoci,O,18971,TRUE,FALSE,Storace,Da Ponte
+1790-12-06,Mon,Dec,Der Vizekanzler,S,17004,FALSE,FALSE,,Kratter
+1790-12-07,Tue,Dec,La pastorella nobile,O,12699,TRUE,FALSE,Guglielmi,Zini
+1790-12-08,Wed,Dec,Matilde,T,32462,FALSE,FALSE,,Ziegler
+1790-12-09,Thu,Dec,L'arbore di Diana,O,11071,FALSE,FALSE,Martín y Soler,Da Ponte
+1790-12-10,Fri,Dec,Das Räuschgen,L,9501,FALSE,FALSE,,Bretzner
+1790-12-11,Sat,Dec,Il re Teodoro in Venezia,O,9448,FALSE,FALSE,Paisiello,Casti
+1790-12-12,Sun,Dec,Die schöne Wienerinn,L,29960,FALSE,FALSE,,Weidmann
+1790-12-13,Mon,Dec,Gli equivoci,O,9475,FALSE,FALSE,Storace,Da Ponte
+1790-12-14,Tue,Dec,Der Burgermeister,L,13772,FALSE,FALSE,,Brühl
+1790-12-15,Wed,Dec,La molinara,O,26160,FALSE,FALSE,Paisiello,Palomba
+1790-12-16,Thu,Dec,Fehler in Formalibus,L,22142,TRUE,TRUE,,Seidel
+1790-12-17,Fri,Dec,La molinara,O,15534,FALSE,FALSE,Paisiello,Palomba
+1790-12-18,Sat,Dec,Das Portrait der Mutter,L,11408,FALSE,FALSE,,Schröder
+1790-12-19,Sun,Dec,Ariadne auf Naxos,M,27595,FALSE,TRUE,Benda,Brandes
+1790-12-20,Mon,Dec,Matilde,T,28808,FALSE,FALSE,,Ziegler
+1790-12-21,Tue,Dec,Menschenhaß und Reue,S,21823,FALSE,FALSE,,Kotzebue
+1790-12-26,Sun,Dec,Liebhaber und Nebenbuhler,L,26849,FALSE,FALSE,,Ziegler
+1790-12-27,Mon,Dec,Il talismano,O,19776,FALSE,FALSE,Salieri,Da Ponte
+1790-12-28,Tue,Dec,Das öffentliche Geheimniß,L,15592,FALSE,FALSE,,Gotter
+1790-12-29,Wed,Dec,Il talismano,O,12266,FALSE,FALSE,Salieri,Da Ponte
+1790-12-30,Thu,Dec,Hamlet,T,21815,FALSE,FALSE,,Schröder
+1790-12-31,Fri,Dec,La molinara,O,17182,FALSE,FALSE,Paisiello,Palomba
+1791-01-01,Sat,Jan,Liebhaber und Nebenbuhler,L,22743,FALSE,FALSE,,Ziegler
+1791-01-02,Sun,Jan,Il talismano,O,21542,FALSE,FALSE,Salieri,Da Ponte
+1791-01-03,Mon,Jan,Das Blatt hat sich gewendet,L,12522,FALSE,FALSE,,Cumberland
+1791-01-04,Tue,Jan,Le nozze di Figaro,O,14778,TRUE,FALSE,Mozart,Da Ponte
+1791-01-05,Wed,Jan,Die Sonnenjungfrau,S,38590,FALSE,FALSE,Weigl,Kotzebue
+1791-01-06,Thu,Jan,L'arbore di Diana,O,17164,FALSE,FALSE,Martín y Soler,Da Ponte
+1791-01-07,Fri,Jan,Die Sonnenjungfrau,S,34394,TRUE,FALSE,Weigl,Kotzebue
+1791-01-08,Sat,Jan,Una cosa rara,O,13622,FALSE,FALSE,Martín y Soler,Da Ponte
+1791-01-09,Sun,Jan,Die unmögliche Sache,L,21394,FALSE,FALSE,,Crowne
+1791-01-10,Mon,Jan,La pastorella nobile,O,15382,TRUE,FALSE,Guglielmi,Zini
+1791-01-11,Tue,Jan,Die Sonnenjungfrau,S,36626,TRUE,FALSE,Weigl,Kotzebue
+1791-01-12,Wed,Jan,Stille Wasser sind betrüglich,L,9931,FALSE,FALSE,,Beaumont
+1791-01-13,Thu,Jan,Die Sonnenjungfrau,S,32382,FALSE,FALSE,Weigl,Kotzebue
+1791-01-14,Fri,Jan,Il talismano,O,11138,FALSE,FALSE,Salieri,Da Ponte
+1791-01-15,Sat,Jan,Der Landphilosoph,L,10049,FALSE,FALSE,,Weidmann
+1791-01-16,Sun,Jan,Il re Teodoro in Venezia,O,11769,FALSE,FALSE,Paisiello,Casti
+1791-01-17,Mon,Jan,Wahrheit ist gut Ding,L,9603,FALSE,FALSE,,Goldoni
+1791-01-18,Tue,Jan,La molinara,O,19317,FALSE,FALSE,Paisiello,Palomba
+1791-01-19,Wed,Jan,Die Sonnenjungfrau,S,32020,FALSE,FALSE,Weigl,Kotzebue
+1791-01-20,Thu,Jan,Le nozze di Figaro,O,11051,FALSE,FALSE,Mozart,Da Ponte
+1791-01-21,Fri,Jan,Liebhaber und Nebenbuhler,L,12485,FALSE,FALSE,,Ziegler
+1791-01-22,Sat,Jan,Gli equivoci,O,9087,TRUE,FALSE,Storace,Da Ponte
+1791-01-23,Sun,Jan,Die Lästerschule,L,16162,FALSE,FALSE,,Schröder
+1791-01-24,Mon,Jan,La cifra,O,10255,FALSE,FALSE,Salieri,Da Ponte
+1791-01-25,Tue,Jan,Die Sonnenjungfrau,S,32364,FALSE,FALSE,Weigl,Kotzebue
+1791-01-26,Wed,Jan,L'arbore di Diana,O,10658,FALSE,FALSE,Martín y Soler,Da Ponte
+1791-01-27,Thu,Jan,Der Sonderling,L,13183,FALSE,FALSE,,Weidmann
+1791-01-28,Fri,Jan,La molinara,O,16581,FALSE,FALSE,Paisiello,Palomba
+1791-01-29,Sat,Jan,Agnes Bernauerinn,T,21321,FALSE,FALSE,,Törring und Cronsfeld
+1791-01-30,Sun,Jan,Il talismano,O,9602,FALSE,FALSE,Salieri,Da Ponte
+1791-01-31,Mon,Jan,Der Kühehirt,L,10956,FALSE,TRUE,,Weidmann
+1791-02-01,Tue,Feb,La cifra,O,9145,FALSE,FALSE,Salieri,Da Ponte
+1791-02-02,Wed,Feb,Die Sonnenjungfrau,S,31394,FALSE,FALSE,Weigl,Kotzebue
+1791-02-03,Thu,Feb,L'arbore di Diana,O,8872,FALSE,FALSE,Martín y Soler,Da Ponte
+1791-02-04,Fri,Feb,Matilde,T,19180,FALSE,FALSE,,Ziegler
+1791-02-05,Sat,Feb,L'arbore di Diana,O,6097,FALSE,FALSE,Martín y Soler,Da Ponte
+1791-02-06,Sun,Feb,Das Portrait der Mutter,L,12453,FALSE,FALSE,,Schröder
+1791-02-07,Mon,Feb,Una cosa rara,O,9511,FALSE,FALSE,Martín y Soler,Da Ponte
+1791-02-08,Tue,Feb,Die Adelsucht,L,8444,FALSE,TRUE,,La Chaussée
+1791-02-09,Wed,Feb,Le nozze di Figaro,O,8718,TRUE,FALSE,Mozart,Da Ponte
+1791-02-10,Thu,Feb,Hamlet,T,17344,TRUE,FALSE,,Schröder
+1791-02-11,Fri,Feb,La pastorella nobile,O,13112,TRUE,FALSE,Guglielmi,Zini
+1791-02-12,Sat,Feb,Minna von Barnhelm,L,11282,FALSE,FALSE,,Lessing
+1791-02-13,Sun,Feb,Il talismano,O,9781,FALSE,FALSE,Salieri,Da Ponte
+1791-02-14,Mon,Feb,Der flatterhafte Ehemann,L,10114,FALSE,FALSE,,Bock
+1791-02-15,Tue,Feb,La giardiniera innamorata,O,24149,TRUE,FALSE,Guglielmi,Palomba
+1791-02-16,Wed,Feb,Die Sonnenjungfrau,S,31604,FALSE,FALSE,Weigl,Kotzebue
+1791-02-17,Thu,Feb,La giardiniera innamorata,O,16950,TRUE,FALSE,Guglielmi,Palomba
+1791-02-18,Fri,Feb,Percy,T,33082,FALSE,FALSE,,Moore
+1791-02-19,Sat,Feb,Il re Teodoro in Venezia,O,7694,FALSE,FALSE,Paisiello,Casti
+1791-02-22,Tue,Feb,Die Mündel,S,19546,FALSE,FALSE,,Iffland
+1791-02-23,Wed,Feb,Il talismano,O,6098,FALSE,FALSE,Salieri,Da Ponte
+1791-02-24,Thu,Feb,Der seltne Onckel,L,26823,FALSE,FALSE,,Ziegler
+1791-02-25,Fri,Feb,Una cosa rara,O,9913,FALSE,FALSE,Martín y Soler,Da Ponte
+1791-02-26,Sat,Feb,Der seltne Onckel,L,23478,TRUE,FALSE,,Ziegler
+1791-02-27,Sun,Feb,La giardiniera innamorata,O,13878,FALSE,FALSE,Guglielmi,Palomba
+1791-02-28,Mon,Feb,Die Sonnenjungfrau,S,30631,FALSE,FALSE,Weigl,Kotzebue
+1791-03-01,Tue,Mar,La pastorella nobile,O,13456,FALSE,FALSE,Guglielmi,Zini
+1791-03-02,Wed,Mar,Der Adjutant,L,21558,FALSE,TRUE,,Brömel
+1791-03-03,Thu,Mar,L'arbore di Diana,O,10801,TRUE,FALSE,Martín y Soler,Da Ponte
+1791-03-04,Fri,Mar,Menschenhaß und Reue,S,21493,TRUE,FALSE,,Kotzebue
+1791-03-05,Sat,Mar,Il talismano,O,9201,FALSE,FALSE,Salieri,Da Ponte
+1791-03-06,Sun,Mar,Der Bettelstudent,L,32326,FALSE,TRUE,Winter,Weidmann
+1791-03-07,Mon,Mar,La molinara,O,20601,TRUE,FALSE,Paisiello,Palomba
+1791-03-08,Tue,Mar,Der Fasching-Dienstag,L,32958,TRUE,TRUE,,Jünger
