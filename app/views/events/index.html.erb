@@ -2,44 +2,45 @@
 
 <h2>Events</h2>
 
+<div class="table-container">
+  <table id="static-table" class="display">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Dow</th>
+        <th>Month</th>
+        <th>Title</th>
+        <th>Genre</th>
+        <th>Receipts</th>
+        <th>Zinz</th>
+        <th>Double</th>
+        <th>Composer</th>
+        <th>Author</th>
+        <th colspan="3"></th>
+      </tr>
+    </thead>
   
-    <table>
-      <thead>
+    <tbody>
+      <% @events.each do |event| %>
         <tr>
-          <th>Date</th>
-          <th>Dow</th>
-          <th>Month</th>
-          <th>Title</th>
-          <th>Genre</th>
-          <th>Receipts</th>
-          <th>Zinz</th>
-          <th>Double</th>
-          <th>Composer</th>
-          <th>Author</th>
-          <th colspan="3"></th>
+          <td><%= event.date.strftime("%Y/%m/%d") %></td>
+          <td><%= event.dow %></td>
+          <td><%= event.month %></td>
+          <td><i><%= event.title %></i></td>
+          <td><%= event.genre %></td>
+          <td><%= event.receipts %></td>
+          <td><%= event.zinz %></td>
+          <td><%= event.double %></td>
+          <td><%= event.composer %></td>
+          <td><%= event.author %></td>
+          <td><%= link_to 'Show', event, class: 'btn btn-outline-primary btn-sm'%></td>
+          <td><%= link_to 'Edit', edit_event_path(event), class: 'btn btn-outline-secondary btn-sm' %></td>
+          <td><%= link_to 'Delete', event, method: :delete, class: 'btn btn-outline-danger btn-sm', data: { confirm: 'Are you sure?' } %></td>
         </tr>
-      </thead>
-    
-      <tbody>
-        <% @events.each do |event| %>
-          <tr>
-            <td><%= event.date.strftime("%Y/%m/%d") %></td>
-            <td><%= event.dow %></td>
-            <td><%= event.month %></td>
-            <td><i><%= event.title %></i></td>
-            <td><%= event.genre %></td>
-            <td><%= event.receipts %></td>
-            <td><%= event.zinz %></td>
-            <td><%= event.double %></td>
-            <td><%= event.composer %></td>
-            <td><%= event.author %></td>
-            <td><%= link_to 'Show', event, class: 'btn btn-outline-primary btn-sm'%></td>
-            <td><%= link_to 'Edit', edit_event_path(event), class: 'btn btn-outline-secondary btn-sm' %></td>
-            <td><%= link_to 'Delete', event, method: :delete, class: 'btn btn-outline-danger btn-sm', data: { confirm: 'Are you sure?' } %></td>
-          </tr>
-        <% end %>
-      </tbody>
-    </table>
+      <% end %>
+    </tbody>
+  </table>
+</div>
 
 
 <%= link_to 'New Event', new_event_path %>
