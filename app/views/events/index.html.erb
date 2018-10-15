@@ -7,13 +7,5 @@
   </table>
 </div>
 
-
-<%= link_to 'New Event', new_event_path %>
-
-<br><br>
-<!--Import csv code from Hudgens tutorial -->
-<h4>Import Events</h4>
-<%= form_tag import_events_path, multipart: true do %>
-  <%= file_field_tag :file %><br><br>
-  <%= submit_tag "Upload Events" %>
-<% end %>
+<p class="annotation">Receipts are given in kreuzer (kr), where 60 kreuzer = 1 gulden (fl)</p>
+<p class="annotation"><i>Genre codes</i>: T = Trauerspiel, L = Lustspiel, S = Schauspiel, G = "Gemälde" (various), O = Opera, C = Concert</p>
