@@ -7,6 +7,13 @@
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <!-- New. From: https://stackoverflow.com/questions/39627881/jquery-plugin-initialization-on-browser-back-button-for-turbolinks-rails-5/39801052 
+    To circumvent the turbolinks page restoration issue with DataTables. See also new code at top of index.html.erb -->
+    
+    <% if content_for?(:head) %>
+      <%= yield(:head) %>
+    <% end %>
+  
   </head>
 
   <body>

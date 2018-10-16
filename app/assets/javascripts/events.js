@@ -1,4 +1,4 @@
-//  First line is based on an answer at https://stackoverflow.com/questions/30876402/datatables-only-loads-on-page-refresh. It provides a working fix to the problem that the datatable would not load without a refresh if coming via the "Back" link on a "Show" page. In this form, there is still a momentary flash, as the table loads, is erased, and the reloads. Not ideal, but acceptable, at least when running locally
+//  First line is based on an answer at https://stackoverflow.com/questions/30876402/datatables-only-loads-on-page-refresh. It provides a working fix to the problem that the datatable would not load without a refresh if coming via the "Back" link on a "Show" page. The flash and rewrite problem using this fix alone seems to be solve acceptably by the code added in application.html.erb and index.html.erb
 
 $(document).on('turbolinks:load', function (){
   $('#ajax-table').DataTable({
