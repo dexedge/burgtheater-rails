@@ -31,9 +31,18 @@ h1, h2, h3, h4 {
   color: #444;
 }
 
+p {
+  font-size: 1em;
+  line-height: 2em;
+}
+
 img {
   float: right;
   margin-top: 8px;
+}
+
+hr {
+  border-top: 1px solid #999;
 }
 
 a:visited {
@@ -49,5 +58,6 @@ a:hover {
 }
 
 .annotation {
-  font-size: 12px;
+  font-size: 0.8em;
+  line-height: 1em;
 }

@@ -1,7 +1,11 @@
 <p id="notice"><%= notice %></p>
 
+<!--Gather all events with this title for counting and averaging -->
+<% p = Event.where(title: @event.title) %>
+
+<!-- Construct heading with date and title-->
 <h3>
-  <%= @event.date.strftime("%a, %d %b %Y") %>, <i><%= @event.title %></i>
+  <%= @event.date.strftime("%a, %-d %b %Y") %>, <i><%= @event.title %></i>
 </h3>
 
 <p>
@@ -9,6 +13,21 @@
   <%= @event.genre %>
 </p>
 
+<!-- Show composer field only if a composer is present -->
+<% if @event.composer.present? %>
+  <p>
+    <strong>Composer:</strong>
+    <%= @event.composer %>
+  </p>
+<% end %>
+
+<p>
+  <strong>Author:</strong>
+  <%= @event.author %>
+</p>
+
+<!-- Show receipts for this performance as total kreuzer and -->
+<!-- calculated as gulden and kreuzer -->
 <p>
   <strong>Receipts:</strong>
   <% r = @event.receipts.divmod(60) %>
@@ -25,15 +44,22 @@
   <%= @event.double %>
 </p>
 
+<!-- p is all events in the period with this title-->
 <p>
-  <strong>Composer:</strong>
-  <%= @event.composer %>
+  <strong>Performances in period:</strong>
+  <%= p.count %>
 </p>
 
+<!-- Calculate average receipts for this title in the period -->
 <p>
-  <strong>Author:</strong>
-  <%= @event.author %>
+  <strong>Average receipts in period:</strong>
+  <% avg = p.average(:receipts).round(2) %>
+  <% avg_flkr = avg.divmod(60) %>
+  <%= avg %> kr = <%= avg_flkr[0].floor %> fl <%= avg_flkr[1] %> kr
 </p>
-
+<hr>
+<p class="annotation">Receipts are given in kreuzer (kr), where 60 kreuzer = 1 gulden (fl)</p>
+<p class="annotation"><i>Genre codes</i>: T = Trauerspiel, L = Lustspiel, S = Schauspiel, G = "Gemälde" (various), O = Opera, C = Concert</p>
+<hr>
 <%= link_to 'Edit', edit_event_path(@event) %> |
 <%= link_to 'Back', events_path %>
