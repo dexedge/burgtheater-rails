@@ -1,24 +1,8 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Date:</strong>
-  <%= @event.date %>
-</p>
-
-<p>
-  <strong>Dow:</strong>
-  <%= @event.dow %>
-</p>
-
-<p>
-  <strong>Month:</strong>
-  <%= @event.month %>
-</p>
-
-<p>
-  <strong>Title:</strong>
-  <i><%= @event.title %></i>
-</p>
+<h3>
+  <%= @event.date.strftime("%a, %d %b %Y") %>, <i><%= @event.title %></i>
+</h3>
 
 <p>
   <strong>Genre:</strong>
