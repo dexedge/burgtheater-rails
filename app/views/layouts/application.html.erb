@@ -7,8 +7,9 @@
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-    <!-- New. From: https://stackoverflow.com/questions/39627881/jquery-plugin-initialization-on-browser-back-button-for-turbolinks-rails-5/39801052 
-    To circumvent the turbolinks page restoration issue with DataTables. See also new code at top of index.html.erb -->
+    
+    <!-- From: https://stackoverflow.com/questions/39627881/jquery-plugin-initialization-on-browser-back-button-for-turbolinks-rails-5/39801052 
+    The content_for? circumvents the turbolinks page restoration issue with DataTables. See also the new code at top of index.html.erb -->
     
     <% if content_for?(:head) %>
       <%= yield(:head) %>
@@ -19,7 +20,7 @@
   <body>
       <div class="container">
         <%= image_tag "Burgtheater-detail-small-rev.jpg", width: "120px" %>
-        <h1><b><i>The Burgtheater in Vienna, 26 Feb 1789 to 8 Mar 1791</i></b></h1>
+        <h1><i>The Burgtheater in Vienna, 26 Feb 1789 to 8 Mar 1791</i></h1>
         <%= yield %>
       </div>
   </body>

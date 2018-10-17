@@ -19,22 +19,34 @@
  @import "jquery.dataTables";
  @import "events.scss";
  
-
+ @import url('https://fonts.googleapis.com/css?family=PT+Serif:400i,700i');
+ 
 body {
   background-color: #fafaf3;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'PT Serif', serif;
+  font-weight: normal;
+  color: #444;
 }
 
 img {
   float: right;
   margin-top: 8px;
 }
-.title {
-  font-style: italic;
+
+a:visited {
+  color: #337ab7;
 }
+
+a:hover {
+  background-color: #ddd;
+}
+
+// .title {
+//   font-style: italic;
+// }
 
 .annotation {
   font-size: 12px;
