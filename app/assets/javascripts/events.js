@@ -9,7 +9,7 @@ var noName = $.fn.dataTable.absoluteOrder({value: null, position: 'bottom'})
 $(document).on('turbolinks:load', function (){
   $('#ajax-table').DataTable({
     pageLength: 14,
-    lengthMenu: [14, 28, 56],
+    lengthMenu: [7, 14, 28, 56],
     ajax: '/get_dataset',
     columns: [
       {title: 'Date', data: 'date'},
